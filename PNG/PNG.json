@@ -10,6 +10,9 @@
 	{"name":"Kuaishou", "url":"https:\/\/raw.githubusercontent.com\/YUN9277\/TP/master\/PNG\/Kuaishou.png"},
 	{"name":"Bilibili", "url":"https:\/\/raw.githubusercontent.com\/YUN9277\/TP/master\/PNG\/Bilibili.png"},
 	{"name":"Youku", "url":"https:\/\/raw.githubusercontent.com\/YUN9277\/TP/master\/PNG\/Youku.png"},
+        {"name":"Vpn", "url":"https:\/\/raw.githubusercontent.com\/YUN9277\/TP/master\/PNG\/Vpn.png"},
+	{"name":"Ip", "url":"https:\/\/raw.githubusercontent.com\/YUN9277\/TP/master\/PNG\/Ip.png"},
+	{"name":"Iqy", "url":"https:\/\/raw.githubusercontent.com\/YUN9277\/TP/master\/PNG\/Iqy.png"},
         
 ]
 }
